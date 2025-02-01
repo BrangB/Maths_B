@@ -1,20 +1,17 @@
 {
-  "name": "maths-utils",
+  "name": "maths_b",
   "version": "1.0.0",
-  "description": "",
+  "description": "A sample npm package",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "keywords": [
+    "math",
+    "utilities",
+    "npm"
+  ],
+  "author": "BrangB",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BrangB/Maths_B.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/BrangB/Maths_B/issues"
-  },
-  "homepage": "https://github.com/BrangB/Maths_B#readme"
+    "url": "https://github.com/BrangB/Maths_B.git"
+  }
 }
