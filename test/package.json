@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "maths_b": "^1.0.0"
+    "maths_b": "^1.0.1"
   }
 }
