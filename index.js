@@ -2,4 +2,8 @@ function add(a, b) {
     return a + b;
 }
 
-module.exports = { add };
+function substract(a, b){
+    return a - b
+}
+
+module.exports = { add, substract };
